@@ -1,0 +1,6 @@
+SELECT TOP (1000) [Id]
+      ,[Username]
+      ,[Age]
+      ,[City]
+      ,[Gender]
+  FROM [UserDB].[dbo].[UserData]
